@@ -1,4 +1,4 @@
-let hello = "Hello World";
+let hello = "Hello GitHub!";
 
 returnHello = () => {
     console.log(hello);
